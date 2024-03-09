@@ -1,0 +1,30 @@
+## WEP APPLICATION DESIGN Course ##
+<Level:M1.STIC ; year:20232024>
+
+
+Mozilla Developer Network- "HTML, CSS, and JavaScript documentation"
+(https://developer.mozilla.org/en-US/docs/Web)
+
+W3Schools- "What is HTML?"
+(https://www.w3schools.com/whatis/whatis_html.asp)
+
+W3Schools- "What is CSS?"
+(https://www.w3schools.com/whatis/whatis_css.asp)
+
+Mozilla Developer Network-"JavaScript Guide"
+(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
+JavaScript ES6 Features Overview
+(https://es6.io/)
+
+React.js Documentation
+(https://reactjs.org/docs/getting-started.html)
+
+Wes Bos- "React for Beginners"
+(https://reactforbeginners.com/)
+
+React Component Lifecycle Documentation
+(https://reactjs.org/docs/react-component.html)
+
+React Router Documentation
+(https://reactrouter.com/web/guides/quick-start)
