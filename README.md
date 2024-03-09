@@ -309,10 +309,10 @@ LMD M1 S1 STIC
 
 ```bash
 # Clone the repository
-git clone https://github.com/NTIC-Constantine2/Licence-S1.git
+git clone https://github.com/NTIC-Constantine2/Master-S1-STIC
 
 # Change directory
-cd Licence-S1
+cd Master-S1-STIC
 ```
 
 ## Contributing
